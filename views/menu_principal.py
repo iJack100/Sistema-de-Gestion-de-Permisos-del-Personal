@@ -15,7 +15,6 @@ class MenuPrincipal:
 
 
     def _imprimir_menu(self, titulo: str, opciones: list[tuple]):
-        """Dibuja un submenú con colores usando Pantalla y Color."""
         Pantalla.encabezado(titulo)
         for clave, etiqueta in opciones:
             if clave == "0":
