@@ -113,22 +113,20 @@ TAREA_POO_VERA/
 - ✅ Interfaz de consola con colores ANSI
 - ✅ Manejo de errores sin cortar la ejecución del programa
 
----
-
 ## 🖥️ Vista previa
 
 ### Menú principal
-![Menú principal](TAREA_POO_VERA/docs/img/menu_principal.png)
+![Menú principal](docs/img/menu_principal.png)
 
 ### Menús del sistema
 
 | Registrar | Consultar |
 |-----------|-----------|
-| ![Menú registrar](TAREA_POO_VERA/docs/img/menu_registrar.png) | ![Menú consultar](TAREA_POO_VERA/docs/img/menu_consultar.png) |
+| ![Menú registrar](docs/img/menu_registrar.png) | ![Menú consultar](docs/img/menu_consultar.png) |
 
 | Buscar | Eliminar | Actualizar |
 |--------|----------|------------|
-| ![Menú buscar](TAREA_POO_VERA/docs/img/menu_buscar.png) | ![Menú eliminar](TAREA_POO_VERA/docs/img/menu_eliminar.png) | ![Menú actualizar](TAREA_POO_VERA/docs/img/menu_actualizar.png) |
+| ![Menú buscar](docs/img/menu_buscar.png) | ![Menú eliminar](docs/img/menu_eliminar.png) | ![Menú actualizar](docs/img/menu_actualizar.png) |
 
 ---
 
@@ -136,11 +134,11 @@ TAREA_POO_VERA/
 
 | Registro | Consultar | Buscar |
 |----------|-----------|--------|
-| ![Registro empleado](TAREA_POO_VERA/docs/img/registro_empleado.png) | ![Consultar empleados](TAREA_POO_VERA/docs/img/consultar_empleados.png) | ![Buscar empleado](TAREA_POO_VERA/docs/img/buscar_empleado.png) |
+| ![Registro empleado](docs/img/registro_empleado.png) | ![Consultar empleados](docs/img/consultar_empleados.png) | ![Buscar empleado](docs/img/buscar_empleado.png) |
 
 | Eliminar | Actualizar |
 |----------|------------|
-| ![Eliminar empleado](TAREA_POO_VERA/docs/img/eliminar_empleado.png) | ![Actualizar empleado](TAREA_POO_VERA/docs/img/actualizar_empleado.png) |
+| ![Eliminar empleado](docs/img/eliminar_empleado.png) | ![Actualizar empleado](docs/img/actualizar_empleado.png) |
 
 ---
 
@@ -148,7 +146,7 @@ TAREA_POO_VERA/
 
 | Registro | Consultar | Buscar | Actualizar |
 |----------|-----------|--------|------------|
-| ![Registro tipo permiso](TAREA_POO_VERA/docs/img/registro_tipo_permiso.png) | ![Consultar tipos](TAREA_POO_VERA/docs/img/consultar_tipo_permiso.png) | ![Buscar tipo](TAREA_POO_VERA/docs/img/buscar_tipo_permiso.png) | ![Actualizar tipo](TAREA_POO_VERA/docs/img/actualizar_tipo_permiso.png) |
+| ![Registro tipo permiso](docs/img/registro_tipo_permiso.png) | ![Consultar tipos](docs/img/consultar_tipo_permiso.png) | ![Buscar tipo](docs/img/buscar_tipo_permiso.png) | ![Actualizar tipo](docs/img/actualizar_tipo_permiso.png) |
 
 ---
 
@@ -156,7 +154,7 @@ TAREA_POO_VERA/
 
 | Registro | Consultar | Buscar | Actualizar |
 |----------|-----------|--------|------------|
-| ![Registro permiso](TAREA_POO_VERA/docs/img/registro_permiso.png) | ![Consultar permisos](TAREA_POO_VERA/docs/img/consultar_permisos.png) | ![Buscar permiso](TAREA_POO_VERA/docs/img/buscar_permiso.png) | ![Actualizar permiso](TAREA_POO_VERA/docs/img/actualizar_permiso.png) |
+| ![Registro permiso](docs/img/registro_permiso.png) | ![Consultar permisos](docs/img/consultar_permisos.png) | ![Buscar permiso](docs/img/buscar_permiso.png) | ![Actualizar permiso](docs/img/actualizar_permiso.png) |
 
 ---
 
@@ -164,15 +162,12 @@ TAREA_POO_VERA/
 
 | Estadísticas de permisos | Resumen general |
 |--------------------------|-----------------|
-| ![Estadísticas](TAREA_POO_VERA/docs/img/estadisticas_permisos.png) | ![Resumen general](TAREA_POO_VERA/docs/img/resumen_general.png) |
+| ![Estadísticas](docs/img/estadisticas_permisos.png) | ![Resumen general](docs/img/resumen_general.png) |
 
 ---
 
 ### 👋 Despedida
-![Despedida](TAREA_POO_VERA/docs/img/despedida.png)
-
----
-
+![Despedida](docs/img/despedida.png)
 ## 🧠 Conceptos POO aplicados
 
 | Concepto | Descripción | Archivo(s) |
