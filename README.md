@@ -89,7 +89,7 @@ python main.py
     ├── diagrama_de_clases.excalidraw
     ├── diagrama_de_procesos.excalidraw
     └── img/                   # Capturas de pantalla del sistema
-
+```
 ---
 
 ## ✅ Funcionalidades
