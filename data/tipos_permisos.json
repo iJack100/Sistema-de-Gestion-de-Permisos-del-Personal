@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "descripcion": "Enfermedad",
+        "remunerado": "S"
+    },
+    {
+        "id": 2,
+        "descripcion": "Calamidad Doméstica",
+        "remunerado": "S"
+    },
+    {
+        "id": 3,
+        "descripcion": "Cita Médica IESS",
+        "remunerado": "S"
+    },
+    {
+        "id": 4,
+        "descripcion": "Maternidad / Paternidad",
+        "remunerado": "S"
+    },
+    {
+        "id": 5,
+        "descripcion": "Asuntos Personales",
+        "remunerado": "N"
+    },
+    {
+        "id": 6,
+        "descripcion": "Fallecimiento Familiar",
+        "remunerado": "S"
+    },
+    {
+        "id": 7,
+        "descripcion": "Capacitación Externa",
+        "remunerado": "N"
+    }
+]

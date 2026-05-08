@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Jhoan Cevallos",
+        "cedula": "0704328913",
+        "sueldo": 1100.0,
+        "valor_hora": 4.58
+    },
+    {
+        "id": 2,
+        "nombre": "Jean Jimenez",
+        "cedula": "1104829351",
+        "sueldo": 1100.0,
+        "valor_hora": 4.58
+    },
+    {
+        "id": 3,
+        "nombre": "Elian Galeas",
+        "cedula": "2400123457",
+        "sueldo": 980.0,
+        "valor_hora": 4.08
+    },
+    {
+        "id": 4,
+        "nombre": "Jose Torres",
+        "cedula": "1312543828",
+        "sueldo": 980.0,
+        "valor_hora": 4.08
+    },
+    {
+        "id": 5,
+        "nombre": "Jhonatan Castro",
+        "cedula": "1804561239",
+        "sueldo": 980.0,
+        "valor_hora": 4.08
+    }
+]

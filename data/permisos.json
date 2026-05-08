@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "id_empleado": 1,
+        "id_tipo_permiso": 3,
+        "fecha_desde": "09/05/2026",
+        "fecha_hasta": "10/05/2026",
+        "tipo": "D",
+        "tiempo": 1.0,
+        "descuento": 0.0
+    },
+    {
+        "id": 2,
+        "id_empleado": 2,
+        "id_tipo_permiso": 1,
+        "fecha_desde": "12/05/2026",
+        "fecha_hasta": "15/05/2026",
+        "tipo": "D",
+        "tiempo": 3.0,
+        "descuento": 0.0
+    },
+    {
+        "id": 3,
+        "id_empleado": 3,
+        "id_tipo_permiso": 5,
+        "fecha_desde": "10/05/2026",
+        "fecha_hasta": "10/05/2026",
+        "tipo": "H",
+        "tiempo": 4.0,
+        "descuento": 25.0
+    },
+    {
+        "id": 4,
+        "id_empleado": 4,
+        "id_tipo_permiso": 2,
+        "fecha_desde": "11/05/2026",
+        "fecha_hasta": "13/05/2026",
+        "tipo": "D",
+        "tiempo": 2.0,
+        "descuento": 0.0
+    },
+    {
+        "id": 5,
+        "id_empleado": 5,
+        "id_tipo_permiso": 7,
+        "fecha_desde": "15/05/2026",
+        "fecha_hasta": "15/05/2026",
+        "tipo": "H",
+        "tiempo": 2.0,
+        "descuento": 10.0
+    },
+    {
+        "id": 6,
+        "id_empleado": 1,
+        "id_tipo_permiso": 6,
+        "fecha_desde": "20/05/2026",
+        "fecha_hasta": "23/05/2026",
+        "tipo": "D",
+        "tiempo": 3.0,
+        "descuento": 0.0
+    }
+]
