@@ -63,40 +63,32 @@ python main.py
 ## 🗂️ Estructura del proyecto
 
 ```
-TAREA_POO_VERA/
-│
-├── main.py                        # Punto de entrada del programa
-│
-├── core/                          # Núcleo del sistema
-│   ├── interfaces.py              # Clase abstracta ICrud (contrato CRUD)
-│   ├── mixins.py                  # CalculosMixin (validaciones y cálculos)
-│   ├── decoradores.py             # Color, Pantalla, decorador_interfaz, manejar_errores, validar_cedula
-│   └── json_manager.py            # Lectura y escritura de archivos JSON
-│
-├── models/                        # Entidades del dominio
-│   ├── empleado.py                # Clase Empleado
-│   ├── tipo_permiso.py            # Clase TipoPermiso
-│   └── permiso.py                 # Clase Permiso
-│
-├── controllers/                   # Lógica CRUD por entidad
-│   ├── empleado_controller.py     # CRUD de empleados + validación de cédula
+.
+├── main.py                    # Punto de entrada del programa
+├── core/                      # Núcleo del sistema (Utilidades y herramientas)
+│   ├── interfaces.py          # Clase abstracta ICrud (contrato CRUD)
+│   ├── mixins.py              # CalculosMixin (validaciones y cálculos)
+│   ├── decoradores.py         # Color, Pantalla, validaciones, etc.
+│   └── json_manager.py        # Lectura y escritura de archivos JSON
+├── models/                    # Entidades del dominio (Clases base)
+│   ├── empleado.py            # Clase Empleado
+│   ├── tipo_permiso.py        # Clase TipoPermiso
+│   └── permiso.py             # Clase Permiso
+├── controllers/               # Lógica de negocio (Controladores CRUD)
+│   ├── empleado_controller.py  # CRUD de empleados
 │   ├── tipo_permiso_controller.py # CRUD de tipos de permiso
-│   ├── permiso_controller.py      # CRUD de permisos + estadísticas con HOF
-│   └── stats_controller.py        # Estadísticas generales del sistema
-│
-├── views/                         # Interfaz de usuario en consola
-│   └── menu_principal.py          # Menú principal de navegación
-│
-├── data/                          # Persistencia en archivos JSON
+│   ├── permiso_controller.py   # CRUD de permisos y estadísticas
+│   └── stats_controller.py     # Estadísticas generales
+├── views/                     # Interfaz de usuario (Menús de consola)
+│   └── menu_principal.py      # Navegación principal
+├── data/                      # Persistencia de datos (Base de datos JSON)
 │   ├── empleados.json
 │   ├── tipos_permisos.json
 │   └── permisos.json
-│
-└── docs/
+└── docs/                      # Documentación y diagramas
     ├── diagrama_de_clases.excalidraw
     ├── diagrama_de_procesos.excalidraw
-    └── img/                       # Capturas de pantalla del sistema
-```
+    └── img/                   # Capturas de pantalla del sistema
 
 ---
 
