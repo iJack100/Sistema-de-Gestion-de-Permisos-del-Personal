@@ -20,7 +20,7 @@
 | Jhoan Ariel Cevallos Villavicencio |
 | Jean Pierre Jiménez Bajaña |
 | José Antonio Torres Torres |
-| Jhonatan Gabriel Castro Belfor |
+| Jonathan Gabriel Castro Belfor |
 | Elian Wladimir Galeas Barén |
 
 | Campo | Detalle |
